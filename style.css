@@ -1,6 +1,14 @@
 
 :root {
-    --cor-de-fundo: #85878b;
+    --cor-de-fundo: #EBECEE;
+    --laranja:  #EB9B00
+    --azul-degrade:#002F52 100%, #326589 100%
+}
+body{
+    background-color: var(--cor-de-fundo);
+}
+.cabecalho{
+    background-color: #ffffff;
 }
 
 
